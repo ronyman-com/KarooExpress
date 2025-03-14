@@ -1,8 +1,8 @@
-# KarooExpress Platform Architecture
+### KarooExpress Platform Architecture
 1. Core Features
-# KarooExpress will offer the following key features:
+### KarooExpress will offer the following key features:
 
-# Global Marketplace: Sellers and buyers from around the world can connect.
+### Global Marketplace: Sellers and buyers from around the world can connect.
 
 Multi-language Support: Supports multiple languages for a global audience.
 
@@ -19,7 +19,7 @@ Buyer Protection: Guarantees refunds or replacements for undelivered or defectiv
 ### 2. Platform Architecture
 The architecture of KarooExpress will be divided into several layers:
 
-Frontend (User Interface)
+### Frontend (User Interface)
 Web Application: Responsive design for desktop and mobile users.
 
 Mobile App: Native apps for iOS and Android for on-the-go shopping.
@@ -28,7 +28,7 @@ Seller Dashboard: A dedicated interface for sellers to manage products, orders, 
 
 Buyer Dashboard: A personalized space for buyers to track orders, view recommendations, and manage wishlists.
 
-Backend (Server-Side Logic)
+### Backend (Server-Side Logic)
 Product Management System: Handles product listings, categories, and inventory.
 
 Order Management System: Manages order processing, payments, and shipping.
@@ -39,7 +39,7 @@ Search Engine: Advanced search functionality with filters (price, ratings, locat
 
 Recommendation Engine: AI-driven product recommendations based on user behavior.
 
-Database Layer
+### Database Layer
 Relational Database: Stores structured data like user accounts, product details, and orders.
 
 NoSQL Database: Stores unstructured data like product reviews, chat logs, and analytics.
@@ -53,14 +53,14 @@ Analytics Tools: Google Analytics, Mixpanel, or custom tools for tracking user b
 
 AI/ML Services: For personalized recommendations, fraud detection, and chatbots.
 
-Cloud Infrastructure
+### Cloud Infrastructure
 Hosting: Cloud-based hosting (AWS, Google Cloud, or Azure) for scalability.
 
 Content Delivery Network (CDN): Ensures fast loading times for users worldwide.
 
 Load Balancing: Distributes traffic to prevent server overload.
 
-3. User Roles
+### 3. User Roles
 Buyers: Browse products, place orders, and leave reviews.
 
 Sellers: List products, manage inventory, and handle customer inquiries.
@@ -79,7 +79,7 @@ Reviews and Ratings: Leave feedback on purchased products.
 
 Customer Support: 24/7 chat support and FAQs.
 
-For Sellers
+### For Sellers
 Product Listing: Easy-to-use interface for adding products with images, descriptions, and pricing.
 
 Inventory Management: Track stock levels and receive alerts for low inventory.
@@ -95,7 +95,7 @@ Dispute Resolution: Mediate conflicts between buyers and sellers.
 
 Content Moderation: Ensure product listings comply with platform policies.
 
-5. Technology Stack
+### 5. Technology Stack
 Frontend: React.js or Angular for web, Swift (iOS) and Kotlin (Android) for mobile apps.
 
 Backend: Node.js or Python (Django/Flask) for server-side logic.
@@ -117,7 +117,7 @@ Advertising: Offer paid advertising options for sellers to promote their product
 
 Subscription Plans: Offer premium plans for sellers with additional features (e.g., advanced analytics, lower commission rates).
 
-7. Security Measures
+### 7. Security Measures
 Data Encryption: SSL/TLS encryption for secure data transmission.
 
 Two-Factor Authentication (2FA): Adds an extra layer of security for user accounts.
@@ -126,7 +126,7 @@ Fraud Detection: AI-powered systems to detect and prevent fraudulent transaction
 
 Regular Audits: Conduct security audits to identify and fix vulnerabilities.
 
-8. Marketing Strategy
+### 8. Marketing Strategy
 SEO and SEM: Optimize the platform for search engines and run paid ads.
 
 Social Media Marketing: Leverage platforms like Instagram, Facebook, and TikTok to reach a global audience.
@@ -137,7 +137,7 @@ Referral Program: Incentivize users to refer friends and earn rewards.
 
 Flash Sales and Discounts: Attract buyers with limited-time offers.
 
-9. Scalability and Future Enhancements
+### 9. Scalability and Future Enhancements
 Localized Marketplaces: Create region-specific versions of KarooExpress to cater to local preferences.
 
 Augmented Reality (AR): Allow buyers to visualize products (e.g., furniture, clothing) before purchasing.
