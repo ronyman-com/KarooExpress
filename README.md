@@ -1,5 +1,5 @@
 ### KarooExpress Platform Architecture
-1. Core Features
+### 1. Core Features
 ### KarooExpress will offer the following key features:
 
 ### Global Marketplace: Sellers and buyers from around the world can connect.
