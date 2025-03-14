@@ -16,7 +16,7 @@ Logistics Integration: Partnerships with global shipping providers for reliable 
 
 Buyer Protection: Guarantees refunds or replacements for undelivered or defective products.
 
-2. Platform Architecture
+### 2. Platform Architecture
 The architecture of KarooExpress will be divided into several layers:
 
 Frontend (User Interface)
@@ -67,7 +67,7 @@ Sellers: List products, manage inventory, and handle customer inquiries.
 
 Admin: Manages the platform, monitors transactions, and resolves disputes.
 
-4. Key Functionalities
+### 4. Key Functionalities
 For Buyers
 Product Search and Filters: Advanced search with filters for price, ratings, location, and more.
 
@@ -88,7 +88,7 @@ Sales Analytics: View sales performance, customer demographics, and revenue.
 
 Promotions: Create discounts, coupons, and flash sales.
 
-For Admins
+### For Admins
 Platform Monitoring: Oversee transactions, user activity, and system performance.
 
 Dispute Resolution: Mediate conflicts between buyers and sellers.
@@ -108,7 +108,7 @@ AI/ML: TensorFlow or PyTorch for recommendation engines and fraud detection.
 
 Payment Integration: Stripe, PayPal, and local payment gateways.
 
-6. Monetization Model
+### 6. Monetization Model
 Commission Fees: Charge sellers a percentage of each sale.
 
 Listing Fees: Charge sellers for premium product listings or featured placements.
@@ -146,7 +146,6 @@ Blockchain Integration: Use blockchain for transparent and secure transactions.
 
 Voice Search: Enable voice-based product searches for convenience.
 
-Conclusion
+### Conclusion
 KarooExpress will be a global online marketplace designed to connect buyers and sellers worldwide. By leveraging advanced technology, robust security measures, and a user-friendly interface, KarooExpress will offer a seamless shopping experience while ensuring scalability and growth. With a focus on personalization, security, and global reach, KarooExpress aims to become a leading competitor in the e-commerce space.
 
-New chat
